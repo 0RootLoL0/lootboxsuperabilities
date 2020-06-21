@@ -1,0 +1,2 @@
+rootProject.name='Лутбокс суперспособностей'
+include ':app'
